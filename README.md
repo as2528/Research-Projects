@@ -26,8 +26,8 @@ Projects applying machine learning and optimization to biological and biomedical
 
 Supporting tools, visualizations, and general-purpose methods.
 
-* **Dashboard** – Interactive visualization of neural network performance.
-* **Scraper** – Notebook for data scraping and preprocessing.
+* **Dashboard** – No-code dashboard for building neural networks.
+* **Scraper** – Scrapes commonly used biochemical databases for FASTAs.
 * **Second-MAFFT** – Updated implementation of MAFFT sequence alignment methods.
 * **Scout-Meta-optimizer** – Meta-optimization algorithms for general-purpose problem solving.
 
