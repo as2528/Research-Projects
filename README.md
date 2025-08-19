@@ -22,7 +22,7 @@ This repository collects a diverse set of independent research projects spanning
 
 * **Scraper** – General-purpose web scraping pipeline.
 * **Second-MAFFT** – Modified version of MAFFT alignment tool with updates.
-* **Dashboard** – Interactive visualization dashboard (moved here from Data Visualization).
+* **Dashboard** – A no code Neural Network constructing dashboard.
 
 ---
 
