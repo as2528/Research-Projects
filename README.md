@@ -8,7 +8,7 @@ This repository organizes a range of independent research projects spanning appl
 
 Projects demonstrating real-world applications of machine learning and reinforcement learning.
 
-* **AI-Tutor-Simulation** – Reinforcement learning–based tutor simulation.
+* **AI-Tutor-Simulation** – Reinforcement learning–based tutor training testbed.
 * **Solving Wordle with Actor-Critic Methods** – Applying actor-critic reinforcement learning to the Wordle puzzle.
 
 ---
