@@ -4,7 +4,7 @@ This repository organizes a range of independent research projects spanning appl
 
 ---
 
-## Applied AI
+## 📂 Applied AI
 
 Projects demonstrating real-world applications of machine learning and reinforcement learning.
 
@@ -13,7 +13,7 @@ Projects demonstrating real-world applications of machine learning and reinforce
 
 ---
 
-## Computational Biology
+## 🧬 Computational Biology
 
 Projects applying machine learning and optimization to biological and biomedical challenges.
 
@@ -22,7 +22,7 @@ Projects applying machine learning and optimization to biological and biomedical
 
 ---
 
-## Utilities
+## 🛠️ Utilities
 
 Supporting tools, visualizations, and general-purpose methods.
 
