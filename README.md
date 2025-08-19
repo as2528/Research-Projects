@@ -20,7 +20,7 @@ This repository collects a diverse set of independent research projects spanning
 
 ### 🔹 Utilities
 
-* **Scraper** – General-purpose web scraping pipeline.
+* **Scraper** – Web scraper for biochemistry databases.
 * **Second-MAFFT** – Modified version of MAFFT alignment tool with updates.
 * **Dashboard** – A no code Neural Network constructing dashboard.
 
